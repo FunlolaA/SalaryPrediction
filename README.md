@@ -19,7 +19,7 @@ test_features.csv: Just like the train_features file, each row represents metada
 - Years of Experience: Candidates Years of Experience
 - Miles from Metropolis: Distance from Metropolis
 
-### Data Exploration Steps
+### Data Discovery Steps
 - Import Data Libraries and set up directory
 - Load Data
 - Merge train_features and train_salaries dataset as one that includes:
@@ -34,4 +34,10 @@ test_features.csv: Just like the train_features file, each row represents metada
  - Utilize Correlation Matrix to examine relationships between variables
  - Use label encoding to identify correlation between all features 
   
-    
+  ## Data Exploration
+  
+  ### Univariate Plots
+  - Job Type
+  
+  ![JobType](https://user-images.githubusercontent.com/66134645/95991525-de731080-0dfa-11eb-9970-4d8ccda2c1e1.png)
+
