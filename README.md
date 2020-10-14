@@ -72,4 +72,4 @@ test_features.csv: Just like the train_features file, each row represents metada
 
 - The boxplot indicates the median salary is about 120k and about 75% of employees earn about 85k and more.
 - The histogram shows the highest salary point is at about 130k. The histogram is almost a normal distribution except it is slightly right skewed.
-- Both plots indicate some outliers which could potentially be salaries of the top management such as the CEOs
+- Both plots indicate some outliers which could potentially be salaries of the top management such as the CEOs.
