@@ -90,7 +90,7 @@ test_features.csv: Just like the train_features file, each row represents metada
 
 ![miles from metro](https://user-images.githubusercontent.com/66134645/95995658-ca7ddd80-0dff-11eb-8671-dd92fb94cc7e.png)
 
-### Insights on Bivariate Plots 
+### Insights 
 
 - Job Type: The box plot shows the CEO's has the highest salary followed colsely by the salaries of the CFO's, and  CTO's. The Janitor earns the least salary when compared to other employees.
 - Industry: The highest earning industries as displayed by the box plot are the Finance and Oil industries while the least two earning industries are the Education and Service sectors. 
@@ -99,6 +99,8 @@ test_features.csv: Just like the train_features file, each row represents metada
 - Years of Experience: The plot shows that as employees years of experience increase, their salaries increases as well and vice-versa.
 - Miles from Metropolis: The plot shows thatas  employees miles from metropolis increases, their salaries decreases and vice-versa.  
 
+### Correlation Matrix
+
 ![correlation matrix](https://user-images.githubusercontent.com/66134645/95995689-d49fdc00-0dff-11eb-90e8-3340a68e8cce.png)
 
 ### Insights
@@ -106,7 +108,7 @@ test_features.csv: Just like the train_features file, each row represents metada
 - There is a negative relationship between Salary and theses features :Miles from Metropolis, Major and Degree
 - Also, there is positive correlation between Major and Degree
 
-### Conclusion¶
+### Conclusion
 Based on the output of the correlation, there is indication that when years of experience increases, salaries of employees seems to increase, that is employees with longer years of work experience are more likely to earn high salaries
 
 Also, there is an indication that when salary increases, miles from metropolis decreases.This could be that employees who earn high income are more likely to afford homes and other expenses of living in or close to the Metropolis.
