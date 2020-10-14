@@ -53,7 +53,7 @@ test_features.csv: Just like the train_features file, each row represents metada
 
 ![Major](https://user-images.githubusercontent.com/66134645/95992124-999ba980-0dfb-11eb-81f2-d3e588a12ac1.png)
 
-#### Insights
+### Insights
 - Job Type: All job types roughly have a similar count
 - Industry: All industries roughly have a similar count
 - Degree: Employees with High school and 'None' degrees have the highest count when compared to    other groups. The count of employees with Bachelors, Masters and Doctoral degree are roughly similar.
@@ -98,6 +98,8 @@ test_features.csv: Just like the train_features file, each row represents metada
 - Major: The employees who majored in Engineering and Business earn slightly higher than other majors in exception of those with 'none' major. Employees with no major earn the least salaries.
 - Years of Experience: The plot shows that as employees years of experience increase, their salaries increases as well and vice-versa.
 - Miles from Metropolis: The plot shows thatas  employees miles from metropolis increases, their salaries decreases and vice-versa.  
+
+
 
 ### Correlation Matrix
 
