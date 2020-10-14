@@ -74,5 +74,25 @@ test_features.csv: Just like the train_features file, each row represents metada
 - The histogram shows the highest salary point is at about 130k. The histogram is almost a normal distribution except it is slightly right skewed.
 - Both plots indicate some outliers which could potentially be salaries of the top management such as the CEOs.
 
-***
+
+
 ### Bivariate Plots
+
+![jobtype boxplot](https://user-images.githubusercontent.com/66134645/95995522-92769a80-0dff-11eb-9258-0062b32bb0dd.png)
+
+![insdutry-boxplot](https://user-images.githubusercontent.com/66134645/95995541-9b676c00-0dff-11eb-8c4e-424c92365241.png)
+
+![Boxplot Degree](https://user-images.githubusercontent.com/66134645/95995636-c2be3900-0dff-11eb-8251-08470ed5d26f.png)
+
+![boxplot major](https://user-images.githubusercontent.com/66134645/95995569-a4583d80-0dff-11eb-8917-30dcceb80aa8.png)
+
+![years of experience](https://user-images.githubusercontent.com/66134645/95995672-d073be80-0dff-11eb-8fb9-d0057e826a1f.png)
+
+![miles from metro](https://user-images.githubusercontent.com/66134645/95995658-ca7ddd80-0dff-11eb-8671-dd92fb94cc7e.png)
+
+![correlation matrix](https://user-images.githubusercontent.com/66134645/95995689-d49fdc00-0dff-11eb-90e8-3340a68e8cce.png)
+
+
+
+
+
