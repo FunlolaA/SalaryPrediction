@@ -53,6 +53,12 @@ test_features.csv: Just like the train_features file, each row represents metada
 
 ![Major](https://user-images.githubusercontent.com/66134645/95992124-999ba980-0dfb-11eb-81f2-d3e588a12ac1.png)
 
+#### Insights
+- Job Type: All job types roughly have a similar count
+- Industry: All industries roughly have a similar count
+- Degree: Employees with High school and 'None' degrees have the highest count when compared to    other groups. The count of employees with Bachelors, Masters and Doctoral degree are roughly similar.
+- Major : Employees with no major are the most popular when compared with other employees. The counts of other majors are roughly the similar
+
 - Salary (Target Feature)
 ![Boxplot](https://user-images.githubusercontent.com/66134645/95992198-b0da9700-0dfb-11eb-88f8-de28d08f2e47.png)
 
