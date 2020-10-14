@@ -41,3 +41,21 @@ test_features.csv: Just like the train_features file, each row represents metada
   
   ![JobType](https://user-images.githubusercontent.com/66134645/95991525-de731080-0dfa-11eb-9970-4d8ccda2c1e1.png)
 
+- Industry 
+
+![Industry](https://user-images.githubusercontent.com/66134645/95992054-84267f80-0dfb-11eb-84b1-7b8f42a99006.png)
+
+- Degree
+
+![Degree](https://user-images.githubusercontent.com/66134645/95992071-8d175100-0dfb-11eb-9b27-506b8c6dc85e.png)
+
+- Major
+
+![Major](https://user-images.githubusercontent.com/66134645/95992124-999ba980-0dfb-11eb-81f2-d3e588a12ac1.png)
+
+- Salary (Target Feature)
+![Boxplot](https://user-images.githubusercontent.com/66134645/95992198-b0da9700-0dfb-11eb-88f8-de28d08f2e47.png)
+
+![Hist](https://user-images.githubusercontent.com/66134645/95992207-b46e1e00-0dfb-11eb-8311-af58dd58c396.png)
+
+
