@@ -7,9 +7,9 @@ The HR department of a company need real time solution that would foster effecti
 The codes were wittten using Python 3 and Jupyter Notebook IDE.
 
 ### Data 
-train_features.csv: Each row includes metatdata for individual job posting. The JobID is the unique identifier for each posting. 
-train_salaries.csv: Each row represents a JobID and corresponding salary
-test_features.csv: Just like the train_features file, each row represents metadata for individual job posting.
+- train_features.csv: Each row includes metatdata for individual job posting. The JobID is the unique identifier for each posting. 
+- train_salaries.csv: Each row represents a JobID and corresponding salary
+- test_features.csv: Just like the train_features file, each row represents metadata for individual job posting.
 
 #### Features in Dataset
 - Job Type: CEO, CFO, Manager, Janitor etc.
